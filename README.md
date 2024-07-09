@@ -44,4 +44,11 @@
 
 ```
 ## Protótipos do site
+- Página inicial
 <img src="imgReadme/Index parte1.png">
+
+- Página de autenticação
+<img src="imgReadme/Autenticação.png">
+
+- Págiina de criar um usuário
+<img src="imgReadme/Registrar.png">
